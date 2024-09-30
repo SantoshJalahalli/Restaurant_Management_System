@@ -1,6 +1,5 @@
 package com.hotel.hotel;
 
-import com.hotel.hotel.entity.Kitchen;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
